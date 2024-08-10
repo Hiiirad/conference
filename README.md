@@ -6,6 +6,8 @@ You can have all the presentations in every public conference or speeches in thi
 
 - 2022
   - [BlackHat](2022/BlackHat/)
+- 2024
+  - [BlackHat USA](2024/BlackHat-USA/)
 
 ## Topics
 
